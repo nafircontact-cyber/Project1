@@ -10,7 +10,7 @@ Saya merupakan mahasiswa yang memiliki ketertarikan kuat pada bidang Data Scienc
 # Fokus karier saya adalah menjadi Data 
 * Analyst / Junior Data Scientist yang mampu mengolah data menjadi insight yang actionable bagi perusahaan.
 
-# 🎓 Education
+# Education
 * Data Science & Machine Learning Bootcamp
 * Exploratory Data Analysis (EDA)
 * Data Preprocessing
@@ -27,3 +27,13 @@ Selama bootcamp, saya telah mengerjakan beberapa project seperti:
 * Customer Segmentation with NLP
 
 Project utama yang akan saya bahas dalam portfolio ini adalah Customer Churn Analysis & Prediction karena memiliki relevansi kuat terhadap kebutuhan industri.
+
+# Dalam industri telekomunikasi / subscription-based service, mempertahankan pelanggan lebih murah dibandingkan mendapatkan pelanggan baru.
+## Perusahaan mengalami peningkatan churn rate yang berdampak pada:
+Penurunan pendapatan
+Tingginya biaya marketing
+Ketidakstabilan pertumbuhan bisnis
+## Project ini penting karena:
+* Membantu tim marketing mengidentifikasi pelanggan berisiko churn
+* Mendukung strategi retensi berbasis data
+* Meningkatkan efisiensi biaya operasional
